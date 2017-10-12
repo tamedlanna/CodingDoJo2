@@ -17,7 +17,7 @@
         </Grid.ColumnDefinitions>
         <Border Margin="10" BorderThickness="1" BorderBrush="Red">
             <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
-                <Image Margin="10" Height="50" Source="Images/Warning-WF.png"></Image>
+                <Image Margin="10" Height="30" Source="Images/Warning-WF.png"></Image>
                 <Label Content="Überlauf Grauwasser" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="20" Foreground="White"></Label>
             </StackPanel>
         </Border>
